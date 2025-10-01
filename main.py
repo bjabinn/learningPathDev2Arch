@@ -15,11 +15,12 @@ id_nivel = niveles_df[niveles_df['nombreNivel'] == nivel_seleccionado]['idNivel'
 contenido_df = pd.read_csv('learning_path_dev2architect.csv')
 areas_df = pd.read_csv('areasConocimiento.csv')
 
-contenido_filtrado = contenido_df[contenido_df['idNivel'] == id_nivel].merge(
+contenido_filtrado = (contenido_df[contenido_df['idNivel'] == id_nivel].merge(
     areas_df[['idArea', 'NombreArea']],
     on='idArea',
     how='left'
-).drop('idArea', axis=1).sort_values(by='NombreArea', ignore_index=True)
+).drop('idArea', axis=1))
+                      # .sort_values(by='NombreArea', ignore_index=True))
 
 
 st.title("Contenido del nivel seleccionado")
@@ -57,6 +58,11 @@ if 'NombreArea' in contenido_filtrado.columns:
 
 html_string = f"""
 <style>
+    section[data-testid="stSidebar"] {{
+            min-width: 415px;
+            max-width: 415px;
+            width: 415px;
+    }}
     .custom-table {{
         width: 100%;
         overflow-x: auto;
