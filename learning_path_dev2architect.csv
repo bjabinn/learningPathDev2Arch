@@ -1,19 +1,18 @@
-idNivel,idArea,Conocimiento
+idNivel,idArea,Conocimiento,notasCurso
 1,1,"Principios SOLID, cohesión y acoplamiento"
 1,1,"Estilos arquitectónicos clásicos: monolito, cliente-servidor, N-capas"
 1,1,"Introducción a patrones de diseño (Factory, Adapter, Observer)"
 1,1,"Documentación con UML y diagramas C4"
-1,1,"Tecnologías legacy: mainframe, SOAP, WebForms"
 1,1,"Primeros requisitos no funcionales: escalabilidad, mantenibilidad, seguridad"
 1,2,"Conceptos básicos de métricas de calidad"
 1,2,"Introducción al análisis de deuda técnica"
 1,3,"Introducción a CI/CD y control de versiones"
 1,3,"Contenedores y despliegues básicos"
 1,3,"Observabilidad inicial: logs y métricas fundamentales"
-1,3,"Certificación AWS Cloud Practitioner"
-1,3,"Certificación Microsoft Azure Fundamentals (AZ-900)"
-1,3,"Certificación Google Cloud Digital Leader"
-1,3,"Certificación Scrum Fundamentals / Scrum Master I"
+1,3,"Certificación AWS Cloud Practitioner",2
+1,3,"Certificación Microsoft Azure Fundamentals (AZ-900)",2
+1,3,"Certificación Google Cloud Digital Leader",2
+1,3,"Agilidad en Acción"
 1,3,"Certificación DevOps Foundation (DOFD)"
 1,4,"Pensamiento sistémico y visión global"
 1,4,"Habilidades comunicativas básicas"
@@ -40,6 +39,7 @@ idNivel,idArea,Conocimiento
 2,3,"Certificación Docker Certified Associate (DCA)"
 2,3,"Certificación Kubernetes CKAD (Application Developer)"
 2,3,"Certificación HashiCorp Terraform Associate"
+2,3,"Certificación Scrum Fundamentals / Scrum Master I"
 2,4,"Comunicación efectiva con stakeholders técnicos y de negocio"
 2,4,"Gestión de expectativas y presentación de soluciones"
 2,4,"Liderazgo técnico sin autoridad formal"
