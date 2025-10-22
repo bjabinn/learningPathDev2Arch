@@ -42,6 +42,7 @@ idNivel,idArea,Conocimiento,notasCurso
 2,4,"Comunicación efectiva con stakeholders técnicos y de negocio"
 2,4,"Gestión de expectativas y presentación de soluciones"
 2,4,"Liderazgo técnico sin autoridad formal"
+2,4,"Mentorización por Jedi Knight / Master"
 
 3,1,"Diseño de plataformas distribuidas multi-dominio"
 3,1,"Gobierno de arquitectura: blueprints, tech radar, architecture reviews"
@@ -67,3 +68,4 @@ idNivel,idArea,Conocimiento,notasCurso
 3,4,"Revisión de pliegos y casos de negocio reales"
 3,4,"Charlas técnicas y evangelización de arquitectura"
 3,4,"Storytelling técnico y toma de decisiones estratégicas"
+3,4,"Mentorización por Jedi Knight / Master"
