@@ -49,7 +49,6 @@ contenido_filtrado = (contenido_df[contenido_df['idNivel'] == id_nivel].merge(
     how='left'
 ).drop('idArea', axis=1))
 
-# Aplica el formateo a la columna de Conocimiento, concatenando la nota al pie
 contenido_filtrado['Conocimiento'] = contenido_filtrado.apply(
     lambda row: formatear_nota_pie(row['Conocimiento'], row.get('notasCurso')), axis=1
 )

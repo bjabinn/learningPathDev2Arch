@@ -32,10 +32,9 @@ idNivel,idArea,Conocimiento,notasCurso
 2,3,"Testing automatizado y calidad continua"
 2,3,"Observabilidad intermedia: métricas, logs estructurados, trazas distribuidas"
 2,3,"Uso de ADRs y toma de decisiones documentadas"
-2,3,"Preparación para certificación cloud (AWS, Azure, GCP) – nivel associate"
-2,3,"Certificación AWS Certified Solutions Architect – Associate"
-2,3,"Certificación Microsoft Azure Administrator (AZ-104)"
-2,3,"Certificación Google Cloud Associate Cloud Engineer"
+2,3,"Certificación AWS Certified Solutions Architect – Associate",2
+2,3,"Certificación Microsoft Azure Administrator (AZ-104)",2
+2,3,"Certificación Google Cloud Associate Cloud Engineer",2
 2,3,"Certificación Docker Certified Associate (DCA)"
 2,3,"Certificación Kubernetes CKAD (Application Developer)"
 2,3,"Certificación HashiCorp Terraform Associate"

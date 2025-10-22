@@ -28,63 +28,38 @@ Habilidades comunicativas básicas,Comunicación Efectiva,https://www.udemy.com/
 Curiosidad y autonomía en el aprendizaje,Aprendizaje continuo,https://www.udemy.com/course/aprendizaje-continuo-y-adaptabilidad-en-el-trabajo/
 
 "Arquitecturas modernas: APIs, EDA, microservicios, serverless","Arquitectura Software Moderna: DDD, Eventos, Microservicios y CQRS",https://www.udemy.com/course/arquitectura-software-moderna-ddd-eventos-microservicios-cqrs/
-"Arquitecturas modernas: APIs, EDA, microservicios, serverless",Construye Microservicios con Spring Boot 3 y Spring Cloud,https://www.udemy.com/course/construye-microservicios-con-spring-boot-3-y-spring-cloud/
-"Arquitecturas modernas: APIs, EDA, microservicios, serverless",Serverless en Español con AWS y Serverless Framework,https://www.udemy.com/course/serverless-en-espanol/
 "Patrones de resiliencia: circuit breaker, retry, caching",Microservicios con Spring Boot y Resilience4j,https://www.udemy.com/course/microservicios-con-spring-boot-y-resilience4j/
-"Patrones de resiliencia: circuit breaker, retry, caching",Spring Cloud Circuit Breaker y Resilience4j desde cero,https://www.udemy.com/course/spring-cloud-circuit-breaker-y-resilience4j-desde-cero/
-"Estrategias de modernización: Strangler Pattern",Arquitectura Software Avanzada: Más allá de los Patrones,https://www.udemy.com/course/arquitectura-software-avanzada-mas-alla-de-los-patrones/
 "Estrategias de modernización: Strangler Pattern",Modernización de aplicaciones monolíticas a microservicios,https://www.udemy.com/course/modernizacion-de-aplicaciones-monoliticas-a-microservicios/
 Integración de sistemas legacy con nuevos servicios,Integración de sistemas empresariales con Spring Integration,https://www.udemy.com/course/integracion-de-sistemas-empresariales-con-spring-integration/
 Integración de sistemas legacy con nuevos servicios,Integración con APIs SOAP y REST en proyectos reales,https://www.udemy.com/course/integracion-con-apis-soap-y-rest/
 Análisis de trade-offs técnicos y matrices de decisión,Diseño de Sistemas a Gran Escala y Arquitectura de Software,https://www.udemy.com/course/diseno-de-sistemas-a-gran-escala-y-arquitectura-de-software/
 Análisis de trade-offs técnicos y matrices de decisión,Arquitectura de Software en la Práctica,https://www.udemy.com/course/arquitectura-de-software-en-la-practica/
 Gestión de deuda técnica a nivel de proyecto,Arquitectura Software Avanzada: Más allá de los Patrones,https://www.udemy.com/course/arquitectura-software-avanzada-mas-alla-de-los-patrones/
-Gestión de deuda técnica a nivel de proyecto,Refactorización de Código y Control de Deuda Técnica,https://www.udemy.com/course/refactorizacion-de-codigo-y-control-de-deuda-tecnica/
-Identificación de cuellos de botella y puntos únicos de fallo,Arquitectura de Software en la Práctica,https://www.udemy.com/course/arquitectura-de-software-en-la-practica/
-Identificación de cuellos de botella y puntos únicos de fallo,Monitoreo de Rendimiento y Cuellos de Botella con Prometheus y Grafana,https://www.udemy.com/course/devs4j-monitoring/
+Identificación de cuellos de botella y puntos únicos de fallo,Monitoreo de Rendimiento y Cuellos de Botella con Prometheus y Grafana,https://www.udemy.com/course/devs4j-monitoring/,1
 Diseño guiado por requisitos no funcionales,Ingeniería de Software y Principios de Arquitectura,https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/
 Diseño guiado por requisitos no funcionales,Arquitectura de Software – Entrenamiento completo,https://www.udemy.com/course/arquitectura-de-software/,1
-"Automatización avanzada de pipelines CI/CD","DevOps Integral: Docker, Kubernetes, Jenkins, GitFlow",https://www.udemy.com/course/devops-con-dockers-kubernetes-jenkins-y-gitflow-cicd/
-"Automatización avanzada de pipelines CI/CD","CI/CD con Jenkins y GitLab desde cero",https://www.udemy.com/course/cicd-con-jenkins-y-gitlab-desde-cero/
 "Automatización avanzada de pipelines CI/CD","DevOps en 5 Pasos – CI/CD Pipelines",https://www.udemy.com/course/devops-en-5-pasos-pipelines/
 Infraestructura como código,Terraform Associate - Certificación Profesional (ES),https://www.udemy.com/course/terraform-associate-certificado-profesional/
-Infraestructura como código,Curso completo de Terraform en Español,https://www.udemy.com/course/terraform-en-espanol/
-Infraestructura como código,Infraestructura como código con Terraform,https://www.udemy.com/course/infraestructura-como-codigo-con-terraform/
 Testing automatizado y calidad continua,Testing Automatizado en Java con JUnit 5 y Mockito,https://www.udemy.com/course/testing-automatizado-con-junit-y-mockito/
 Testing automatizado y calidad continua,Pruebas Automatizadas con Selenium WebDriver,https://www.udemy.com/course/pruebas-automatizadas-con-selenium-webdriver/
 Testing automatizado y calidad continua,DevOps Testing y QA Automation,https://www.udemy.com/course/devops-testing-y-qa-automation/
-"Observabilidad intermedia: métricas, logs estructurados, trazas distribuidas","Monitoreo con Prometheus, Grafana, Spring Boot y Docker",https://www.udemy.com/course/devs4j-monitoring/
-"Observabilidad intermedia: métricas, logs estructurados, trazas distribuidas","Observabilidad de Microservicios .NET 8 con OpenTelemetry",https://www.udemy.com/course/opentelemetry/
+"Observabilidad intermedia: métricas, logs estructurados, trazas distribuidas","Monitoreo con Prometheus, Grafana, Spring Boot y Docker",https://www.udemy.com/course/devs4j-monitoring/,1
 "Observabilidad intermedia: métricas, logs estructurados, trazas distribuidas","Observabilidad de Aplicaciones JAVA con OpenTelemetry",https://www.udemy.com/course/opentelemetry-java/
-Uso de ADRs y toma de decisiones documentadas,Arquitectura de Software en la Práctica,https://www.udemy.com/course/arquitectura-de-software-en-la-practica/
 Uso de ADRs y toma de decisiones documentadas,Documentación efectiva de decisiones técnicas,https://www.udemy.com/course/documentacion-decisiones-tecnicas/
-"Preparación para certificación cloud (AWS, Azure, GCP) – nivel associate",AWS Certified Solutions Architect – Associate [Español],https://www.udemy.com/course/aws-solutions-architect-associate-espanol/
-"Preparación para certificación cloud (AWS, Azure, GCP) – nivel associate",Curso AZ-104 Microsoft Azure Administrator,https://www.udemy.com/course/curso-az-104-microsoft-azure-administrator/
-"Preparación para certificación cloud (AWS, Azure, GCP) – nivel associate",Google Cloud Associate Cloud Engineer en Español,https://www.udemy.com/course/google-cloud-associate-cloud-engineer-espanol/
-Certificación AWS Certified Solutions Architect – Associate,AWS Certified Solutions Architect – Associate [Español],https://www.udemy.com/course/aws-solutions-architect-associate-espanol/
-Certificación AWS Certified Solutions Architect – Associate,AWS Solutions Architect Associate – Examen de práctica (ES),https://www.udemy.com/course/aws-solutions-architect-associate-examen-espanol/
-Certificación Microsoft Azure Administrator (AZ-104),AZ-104 Microsoft Azure Administrator en Español,https://www.udemy.com/course/curso-az-104-microsoft-azure-administrator/
-Certificación Microsoft Azure Administrator (AZ-104),Preparación Examen AZ-104 en Español,https://www.udemy.com/course/preparacion-examen-az-104-espanol/
-Certificación Google Cloud Associate Cloud Engineer,Google Cloud Associate Cloud Engineer – Español,https://www.udemy.com/course/google-cloud-associate-cloud-engineer-espanol/
-Certificación Google Cloud Associate Cloud Engineer,Curso preparatorio Associate Cloud Engineer (ES),https://www.udemy.com/course/associate-cloud-engineer-preparacion/
-Certificación Docker Certified Associate (DCA),Curso Completo de Docker desde Cero,https://www.udemy.com/course/docker-desde-cero/
-Certificación Docker Certified Associate (DCA),Docker & Kubernetes: Guía Completa con Hands-On,https://www.udemy.com/course/docker-kubernetes-guia-completa/
+Certificación AWS Certified Solutions Architect – Associate (2),AWS Certified Solutions Architect – Associate [Español],https://www.udemy.com/course/aws-solutions-architect-associate-espanol/
+Certificación AWS Certified Solutions Architect – Associate (2),AWS Solutions Architect Associate – Examen de práctica (ES),https://www.udemy.com/course/aws-solutions-architect-associate-examen-espanol/
+Certificación Microsoft Azure Administrator (AZ-104) (2),AZ-104 Microsoft Azure Administrator en Español,https://www.udemy.com/course/curso-az-104-microsoft-azure-administrator/
+Certificación Microsoft Azure Administrator (AZ-104) (2),Preparación Examen AZ-104 en Español,https://www.udemy.com/course/preparacion-examen-az-104-espanol/
+Certificación Google Cloud Associate Cloud Engineer (2),Google Cloud Associate Cloud Engineer – Español,https://www.udemy.com/course/google-cloud-associate-cloud-engineer-espanol/
 Certificación Docker Certified Associate (DCA),Preparación para Docker Certified Associate,https://www.udemy.com/course/preparacion-docker-certified-associate/
 Certificación Kubernetes CKAD (Application Developer),Preparación para el examen CKAD en Español,https://www.udemy.com/course/ckad-preparacion-espanol/
-Certificación Kubernetes CKAD (Application Developer),Kubernetes desde Cero a Avanzado,https://www.udemy.com/course/kubernetes-desde-cero/
-Certificación Kubernetes CKAD (Application Developer),Kubernetes práctico para desarrolladores,https://www.udemy.com/course/kubernetes-practico-para-desarrolladores/
 Certificación HashiCorp Terraform Associate,Terraform Associate - Certificación Profesional (ES),https://www.udemy.com/course/terraform-associate-certificado-profesional/
 Certificación HashiCorp Terraform Associate,Curso de Terraform en Español,https://www.udemy.com/course/terraform-en-espanol/
-Certificación HashiCorp Terraform Associate,Terraform desde Cero a Profesional,https://www.udemy.com/course/terraform-desde-cero-a-profesional/
 Comunicación efectiva con stakeholders técnicos y de negocio,Comunicación Efectiva en Equipos Técnicos,https://www.udemy.com/course/comunicacion-efectiva-en-equipos-tecnicos/
-Comunicación efectiva con stakeholders técnicos y de negocio,Comunicación Avanzada: Escucha activa y asertividad,https://www.udemy.com/course/comunicacion-avanzada-escucha-activa-empatia-y-asertividad/
-Comunicación efectiva con stakeholders técnicos y de negocio,Storytelling para Presentaciones Técnicas,https://www.udemy.com/course/storytelling-para-presentaciones-tecnicas/
 Certificación Scrum Fundamentals / Scrum Master I,Scrum Master Certificación,https://www.udemy.com/course/certificacion-scrum-master-profesional-psm-curso-completo/
 Gestión de expectativas y presentación de soluciones,Gestión de Proyectos Ágiles con Scrum,https://www.udemy.com/course/gestion-de-proyectos-agiles-con-scrum/
 Gestión de expectativas y presentación de soluciones,Comunicación de Soluciones Técnicas a Stakeholders,https://www.udemy.com/course/comunicacion-de-soluciones-tecnicas-a-stakeholders/
 Liderazgo técnico sin autoridad formal,Liderazgo Técnico: Cómo liderar sin autoridad,https://www.udemy.com/course/liderazgo-tecnico/
-Liderazgo técnico sin autoridad formal,Habilidades de Liderazgo en Equipos de Desarrollo,https://www.udemy.com/course/habilidades-de-liderazgo-en-equipos-de-desarrollo/
-Liderazgo técnico sin autoridad formal,Comunicación y liderazgo en equipos ágiles,https://www.udemy.com/course/comunicacion-y-liderazgo-en-equipos-agiles/
 
 Diseño de plataformas distribuidas multi-dominio,Arquitectura de Software – Entrenamiento completo,https://www.udemy.com/course/arquitectura-de-software/,1
 Diseño de plataformas distribuidas multi-dominio,Diseño de Sistemas a Gran Escala y Arquitectura de Software,https://www.udemy.com/course/diseno-de-sistemas-a-gran-escala-y-arquitectura-de-software/
